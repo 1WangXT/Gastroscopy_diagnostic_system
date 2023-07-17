@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/首页.ico</file>
+    <file>icon/plus.svg</file>
+    <file>icon/minimize.svg</file>
+    <file>icon/close.svg</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>image/login.jpg</file>
+    <file>image/load.png</file>
+  </qresource>
+</RCC>
